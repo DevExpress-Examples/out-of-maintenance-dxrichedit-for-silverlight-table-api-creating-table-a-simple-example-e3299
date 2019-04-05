@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/Walkthrough_Creating_Table/MainPage.xaml) (VB: [MainPage.xaml](./VB/Walkthrough_Creating_Table/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/Walkthrough_Creating_Table/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/Walkthrough_Creating_Table/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/Walkthrough_Creating_Table/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Walkthrough_Creating_Table/MainPage.xaml.vb))
 <!-- default file list end -->
 # DXRichEdit for Silverlight: Table API - Creating table - a simple example
 
